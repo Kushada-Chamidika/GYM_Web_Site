@@ -1,0 +1,142 @@
+.div1{
+    width: 99%;
+    height: 75px;
+    border-radius: 10px;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    margin-top: 10px;
+    opacity: 0.6;
+    border-radius: 10px;
+    z-index: 100;
+}
+.tit1{
+    color: white;
+    font-family: "Arial Unicode MS";
+    font-size: 15px;
+    margin-top: 25px;
+    margin-left:  90px;
+    font-weight: bold;
+    position: absolute;
+
+}
+.img1{
+    width: 40px;
+    padding: 18px;
+    position: absolute;
+}
+
+.tit2{
+    margin-left:  420px;
+}
+.tit2:hover{
+    color: red;
+}
+.anitit1{
+    color: green;
+}
+.tit3{
+    margin-left: 500px;
+}
+.tit4{
+    margin-left: 570px;
+}
+.tit5{
+    margin-left: 660px;
+}
+.tit6{
+    margin-left: 760px;
+}
+.tit7{
+    margin-left: 870px;
+}
+.tit8{
+    margin-left: 950px;
+}
+.tit9{
+    margin-left:1030px; 
+}
+.titx:hover{
+    color: lightgray;
+}
+.bkl1{
+    background-image: url("v2.jpg");
+    background-size: 1340px;
+    background-attachment: fixed;
+}
+.bq1{
+    position: absolute;
+    color: white;
+    margin-top: 200px;
+    margin-left: 40px;
+}
+.u1{
+    font-size: 70px;
+    color: white;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 500px;
+}
+.qs1{
+    width: 520px;
+    height:600px;
+    border-color: gray;
+    border-style: solid;
+    position: absolute;
+    margin-top: 240px;
+    border-radius: 30px;
+    margin-left: 50px;
+}
+.h1{
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 190px;
+}
+.y1{
+    width: 250px;
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 130px;
+}
+.qs2{
+    margin-left: 650px;
+}
+.y2{
+    width: 350px;
+    margin-left:80px;
+}
+.qs3{
+    margin-top: 900px;
+}
+.y3{
+    width: 300px;
+    margin-left: 120px;
+}
+
+.y4{
+    width: 280px;
+}
+.y5{
+    width: 250px;
+    margin-left: 150px;
+}
+.qs4{
+    margin-top: 1600px;
+}
+.qs5{
+    margin-top: 2300px;
+}
+.h2{
+    margin-left: 130px;
+}
+.qs6{
+    margin-top: 3000px;
+}
+.sp2{
+    color: white;
+    position: absolute;
+    margin-top: 3750px;
+    margin-left: -100px;
+}

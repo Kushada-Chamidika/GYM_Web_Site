@@ -1,0 +1,186 @@
+.div1{
+    width: 99%;
+    height: 75px;
+    border-radius: 10px;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    margin-top: 10px;
+    opacity: 0.6;
+    border-radius: 10px;
+    z-index: 100;
+}
+.tit1{
+    color: white;
+    font-family: "Arial Unicode MS";
+    font-size: 15px;
+    margin-top: 25px;
+    margin-left:  90px;
+    font-weight: bold;
+    position: absolute;
+
+}
+.img1{
+    width: 40px;
+    padding: 18px;
+    position: absolute;
+}
+
+.tit2{
+    margin-left:  420px;
+}
+.tit2:hover{
+    color: red;
+}
+.anitit1{
+    color: green;
+}
+.tit3{
+    margin-left: 500px;
+}
+.tit4{
+    margin-left: 570px;
+}
+.tit5{
+    margin-left: 660px;
+}
+.tit6{
+    margin-left: 760px;
+}
+.tit7{
+    margin-left: 870px;
+}
+.tit8{
+    margin-left: 950px;
+}
+.tit9{
+    margin-left:1030px; 
+}
+.titx:hover{
+    color: lightgray;
+}
+.vd2{
+    width: 1340px;
+    z-index: 10;
+}
+.t1{
+    font-size: 80px;
+    color: white;
+    margin-top: -400px;
+    z-index: 20;
+}
+.t2{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.di1{
+    height: 50px;
+    width: 150px;
+    border-color: white;
+    border-style: solid;
+    margin-top: 200px;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-left: 40px;
+}
+.di1:hover{
+    background-color: yellow;
+    border-color: red;
+}
+.te1:hover{
+    color: black;
+}
+.te1{
+    color: white;
+    font-size: 20px;
+    padding-left: 45px;
+}
+.b1{
+    background-image: url("k8.jpg");
+    background-attachment: fixed;
+    background-size: 1340px;
+}
+.di2{
+    width: 250px;
+    height: 300px;
+    border-color:gray;
+    border-style: solid;
+    border-radius: 30px;
+    display: none;
+    position: absolute;
+}
+.r1{
+    color: white;
+    padding-left: 85px;
+}
+.pa1{
+    color: white;
+    font-family:"cursive";
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 18px;
+}
+.an{
+    display: block;
+}
+.dia{
+    position: absolute;
+    margin-top: -55px;
+    margin-left: 220px;
+}
+.dib{
+    margin-left:180px;
+}
+.a1{
+    margin-left:390px;
+}
+.c1{
+    position: absolute;
+    margin-left: 350px;
+}
+.r2{
+    margin-left: -20px;
+}
+.c2{
+    margin-left: 530px;
+    position: absolute;
+}
+.a2{
+    margin-left: 570px;
+
+}
+.a3{
+    margin-left:750px;
+}
+.c3{
+    margin-left: 750px;
+    position: absolute;
+} 
+.a4{
+    margin-left: 940px;
+}
+.c4{
+    margin-left: 940px;
+    position: absolute;
+}
+
+.a5{
+    margin-left: 1120px;
+}
+.c5{
+    margin-left: 1120px;
+    position: absolute;
+    width: 215px;
+}
+.di2:hover{
+    color: #ff0033;
+    background-color: gray;
+}
+.sp2{
+    color: white;
+    position: absolute;
+    margin-top: 320px;
+    margin-left: -100px;
+}

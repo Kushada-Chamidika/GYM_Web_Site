@@ -1,0 +1,175 @@
+.div1{
+    width: 99%;
+    height: 75px;
+    border-radius: 10px;
+    background-color: black;
+    opacity: 0.6;
+    border-radius: 10px;
+    z-index: 100;
+    position: fixed;
+    top: 0;
+    margin-top: 10px;
+}
+.tit1{
+    color: white;
+    font-family: "Arial Unicode MS";
+    font-size: 15px;
+    margin-top: 25px;
+    margin-left:  90px;
+    font-weight: bold;
+    position: absolute;
+
+}
+.img1{
+    width: 40px;
+    padding: 18px;
+    position: absolute;
+}
+
+.tit2{
+    margin-left:  420px;
+}
+.tit2:hover{
+    color: red;
+}
+.anitit1{
+    color: green;
+}
+.tit3{
+    margin-left: 500px;
+}
+.tit4{
+    margin-left: 570px;
+}
+.tit5{
+    margin-left: 660px;
+}
+.tit6{
+    margin-left: 760px;
+}
+.tit7{
+    margin-left: 870px;
+}
+.tit8{
+    margin-left: 950px;
+}
+.tit9{
+    margin-left:1030px; 
+}
+.titx:hover{
+    color: lightgray;
+}
+
+.bd{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1367px;
+}
+.bd1{
+    background-image: url("dumbel.jpg");
+}
+.bd2{
+    background-image: url("weight2.jpg");
+}
+.bd3{
+    background-image: url("boot4.jpg");
+}
+.bd4{
+    background-image: url("CoupleWorkingOutAtGym.jpg");
+}
+.tx2{
+    color: white;
+    font-size: 60px;
+    font-family: "Century Gothic";
+    margin-top: -300px;
+    margin-left: 550px;
+    position: absolute;
+}
+.tx3{
+    color: white;
+    font-size: 40px;
+    font-family: "Century Gothic";
+    margin-top: -220px;
+    margin-left: 490px;
+    position: absolute;
+
+}
+.div2{
+    background-color: red;
+    width: 80px;
+    height: 80px;
+    margin-left: 150px;
+    margin-top: 400px;
+
+}
+.tx4{
+    font-size: 70px;
+    color: white;
+    padding: 7px;
+}
+.div3{
+    width: 350px;
+    height: 570px;
+    background-color: #666666;
+    margin-top: -220px;
+    margin-left: 230px;
+    border-color: white;
+    border-style: solid;
+}
+.text1{
+    color: white;
+    font-family:cursive;
+    margin-left: 5px;
+}
+.head1{
+    color: white;
+    font-weight: bold;
+}
+.k1{
+    width: 550px;
+    margin-top: -220px;
+    margin-left: 580px;
+}
+.k3{
+    width: 580px;
+    margin-top: 20px;
+    position: absolute;
+    margin-left: -1130px;
+}
+.div4{
+    margin-left: 700px;
+    margin-top: -325px;
+    height: 420px;
+}
+.div5{
+    margin-top: -565px;
+    margin-left: 620px;
+}
+.k4{
+    margin-top: 300px;
+    width: 650px;
+}
+.k5{
+    margin-left: 700px;
+}
+.k6{
+    width: 1340px;
+}
+.k7{
+    margin-left: 750px;
+}
+.div7{
+    margin-top: -440px;
+}
+.k8{
+    width: 1340px;
+}
+.k11{
+    margin-left: 300px;
+}
+.sp2{
+    color: white;
+    position: absolute;
+    margin-top:50px;
+    margin-left: -100px;
+}

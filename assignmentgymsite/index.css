@@ -1,0 +1,212 @@
+.div1{
+    width: 99%;
+    height: 75px;
+    border-radius: 10px;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    opacity: 0.6;
+    border-radius: 10px;
+    z-index: 100;
+    margin-top: 10px;
+}
+.tit1{
+    color: white;
+    font-family: "Arial Unicode MS";
+    font-size: 15px;
+    margin-top: 25px;
+    margin-left:  90px;
+    font-weight: bold;
+    position: absolute;
+
+}
+.img1{
+    width: 40px;
+    padding: 18px;
+    position: absolute;
+}
+
+.tit2{
+    margin-left:  420px;
+}
+.tit2:hover{
+    color: red;
+}
+.anitit1{
+    color: green;
+}
+.tit3{
+    margin-left: 500px;
+}
+.tit4{
+    margin-left: 570px;
+}
+.tit5{
+    margin-left: 660px;
+}
+.tit6{
+    margin-left: 760px;
+}
+.tit7{
+    margin-left: 870px;
+}
+.tit8{
+    margin-left: 950px;
+}
+.tit9{
+    margin-left:1030px; 
+}
+.titx:hover{
+    color: lightgray;
+}
+.bak1{
+
+    position: absolute;
+    background-size: 1350px ;
+    height: 645px;
+    width: 1350px;
+    border-radius: 10px;
+}
+.body{
+    background-image: url("female-athlete-exercising-with-dumbbells-in-a-lunge-royalty-free-image-909891594-1558710148.jpg");
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+}
+.d1{
+    height: 330px;
+    border-left-color: red;
+    width: 4px;
+    background-color: red;
+    margin-top: 250px;
+    margin-left: 600px;
+    z-index: 100;
+
+}
+.hd1{
+    margin-left: 610px;
+    margin-top: -315px;
+    z-index: 100;
+    font-size: 60px;
+    font-weight: bold;
+    color: red;
+
+}
+.hd2{
+    margin-top: -30px;
+}
+.hd3{
+    margin-top: -30px;
+}
+.hd4{
+    margin-top: -30px;
+}
+.text1{
+    color: white;
+    font-size: 70px;
+    margin-top: -160px;
+    position: absolute;
+    z-index: 10;
+}
+.slider{
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    border-color: lightgray;
+    border-style: solid;
+    margin-top: 60px;
+    
+}
+
+
+@keyframes an3{
+    100%{
+       transform: rotate(360deg);
+
+    }
+}
+
+
+.d4{
+    width: 350px;
+    height: 450px;
+    background-color: red;
+    margin-left: 280px;
+    border-radius: 5px;
+    opacity: 0.7;
+    z-index: 10;
+}
+.d5{
+    width: 4px;
+    height: 490px;
+    background-color: white;
+    margin-left: 290px;
+    margin-top: 5px;
+    z-index: 100;
+    position: absolute;
+}
+.text2{
+    color: white;
+    padding-left: 50px;
+    padding-top: 20px;
+
+
+}
+.d3{
+    width: 1340px;
+    height: 720px;
+    background-image: url("dumbel.jpg");
+    background-size: 1340px;
+    position: absolute;
+}
+
+
+.d6{
+    margin-left: 700px;
+    background-color: gray;
+}
+.d7{
+    margin-top: -470px;
+    margin-left: 710px;
+}
+.text3{
+    color: white;
+}
+.da{
+    background-image: url("icon.jpg");
+    width: 350px;
+    height: 350px;
+    background-size: 350px;
+    border-radius: 100%;
+    position: absolute;
+    margin-top: -370px;
+    margin-left: 200px;
+    
+    animation-name: an3;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+}
+.p1{
+    padding-left: 20px;
+    color: lightgray;
+    font-size: 18px;
+    z-index: 100;
+}
+.img2{
+    width: 500px;
+    padding-left: 100px;
+    padding-top: 200px;
+}
+.img3{
+    width: 400px;
+    padding-top: 200px;
+    padding-left: 150px;
+    padding-top: -400px;
+    position: absolute;
+}
+.text4{
+    color: red;
+    padding-left: 100px;
+}
+.vd1{
+    width: 500px;
+}
